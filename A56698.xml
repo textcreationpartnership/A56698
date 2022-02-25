@@ -1,0 +1,387 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached on Saint Mark's Day MDCLXXXVI in the parish church of St. Paul's Covent Garden by Symon Patrick ...</title>
+            <author>Patrick, Simon, 1626-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56698</idno>
+            <idno type="STC">Wing P844</idno>
+            <idno type="STC">ESTC R7041</idno>
+            <idno type="EEBO-CITATION">12588040</idno>
+            <idno type="OCLC">ocm 12588040</idno>
+            <idno type="VID">63798</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56698)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63798)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 674:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached on Saint Mark's Day MDCLXXXVI in the parish church of St. Paul's Covent Garden by Symon Patrick ...</title>
+                  <author>Patrick, Simon, 1626-1707.</author>
+               </titleStmt>
+               <extent>[3], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.M. for R. Royston ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mark, --  Saint --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Theology --  Early works to 1800.</term>
+               <term>Theology --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:63798:1"/>
+            <p>Imprimatur.</p>
+            <closer>
+               <signed>Joannes Battely <hi>RR<hi rend="sup">mo</hi>
+                  </hi> Patri ac <hi>D<hi rend="sup">no</hi> D<hi rend="sup">no</hi>
+                  </hi> Wilhelmo Ar<g ref="char:EOLhyphen"/>chiep. Cantuar. à ſacris domeſticis.</signed>
+               <dateline>Ex Aedib. Lambeth. <date>Maii 17. 1686.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="sermon">
+            <pb facs="tcp:63798:1"/>
+            <p>A SERMON PREACHED ON Saint <hi>MARK</hi>'s Day MDCLXXXVI.</p>
+            <p>IN THE PARISH CHURCH of S<hi rend="sup">t</hi> 
+               <hi>Paul</hi>'s <hi>Covent Garden.</hi>
+            </p>
+            <p>BY <hi>SYMON PATRICK</hi> Rector there.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. M.</hi> for <hi>R. Royſton</hi> Bookſeller to His moſt Sacred Majeſty. 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:63798:2"/>
+            <pb n="1" facs="tcp:63798:2"/>
+            <head>A SERMON PREACHED On S<hi rend="sup">t</hi> 
+               <hi>MARK</hi>'s Day, 1686.</head>
+            <epigraph>
+               <bibl>EPHES. iv. 14. beginning.</bibl>
+               <q>That we henceforth be no more chil<g ref="char:EOLhyphen"/>dren, toſſed to and fro, and carried about with every wind of Do<g ref="char:EOLhyphen"/>ctrine, <hi>&amp;c.</hi>
+               </q>
+            </epigraph>
+            <p>THeſe Words, which are part of the <hi>Epiſtle</hi> for this Day, contain a principal reaſon, why God furniſhed his Church with ſuch variety of Gifts, and ſo many Miniſters of the Goſpel of his Grace, as you read of in the foregoing Verſes.</p>
+            <p>
+               <pb n="2" facs="tcp:63798:3"/>Where the Apoſtle obſerves (<hi>ver.</hi> 8.) that after our Bleſſed Lord was raiſed from the lower parts of the Earth, and aſcended up into Heaven, <hi>He gave gifts unto men,</hi> and <hi>filled all things,</hi> ver. 10.</p>
+            <p>And ſome (he proceeds to ſhew) were made <hi>Apoſtles:</hi> who were the chief Mini<g ref="char:EOLhyphen"/>ſters of Chriſt, the Witneſſes of his Reſur<g ref="char:EOLhyphen"/>rection, the great Luminaries of the World, by the laying on of whoſe hands the Holy Ghoſt was given unto others.</p>
+            <p>And next to them he placed <hi>Prophets:</hi> who were inſpired perſons, that had an ex<g ref="char:EOLhyphen"/>cellent faculty of expounding the old Scri<g ref="char:EOLhyphen"/>ptures, which propheſied of Chriſt, and foretold the things that they now preached: and did alſo, in ſome caſes, foretell, like the Prophets in antient time, what was to come to paſs hereafter in the Church of Chriſt.</p>
+            <p>After whom followed <hi>Evangeliſts;</hi> of which Rank was St. <hi>Mark,</hi> whoſe Memo<g ref="char:EOLhyphen"/>ry is this Day celebrated. They were men who accompanied the Apoſtles, and went about with them in their travels; to be ſent by them, as they were by Chriſt, either to preach the Goſpel where they
+<pb n="3" facs="tcp:63798:3"/>
+could not go themſelves, or to confirm and ſtrengthen thoſe in the Faith whom they had already converted. Thus St. <hi>Mark</hi> attend<g ref="char:EOLhyphen"/>ed upon St. <hi>Peter,</hi> whoſe Diſciple he was; as not only <hi>Euſebius</hi> and St. <hi>Hierom,</hi> but <hi>Ire<g ref="char:EOLhyphen"/>naeus</hi> himſelf, who was more antient, aſſure us. He is thought to be the perſon menti<g ref="char:EOLhyphen"/>oned by St. <hi>Peter</hi> in the latter end of his firſt Epiſtle, v. 13. where he calls him, <hi>Marcus my Son.</hi> And is ſaid, by the Authors before mentioned, to have written his Goſpel at the requeſt of the Converts of St. <hi>Peter:</hi> from whom, they ſay, he went to <hi>Alexan<g ref="char:EOLhyphen"/>dria,</hi> and there founded a Church; of which he himſelf was the firſt Biſhop.</p>
+            <p>Now after all theſe (<hi>Apoſtles, Prophets</hi> and <hi>Evangeliſts</hi>) laſt of all there were <hi>Paſtors</hi> and <hi>Teachers.</hi> Who were Apoſtolical men; ſetled and fixed in thoſe Churches which had been gathered by the Apoſtles, to be their conſtant Governours and Inſtructers, when the Apoſtles could no longer ſtay with them.</p>
+            <p>All theſe were indued with Divine Gifts, according to the meaſure that Chriſt pleaſed to beſtow upon them; as you read <hi>ver.</hi> 7. And he beſtowed theſe Gifts on them for
+<pb n="4" facs="tcp:63798:4"/>
+               <hi>three</hi> ends, which are named, <hi>ver.</hi> 12. <hi>Firſt,</hi> for the <hi>perfecting of the Saints.</hi> That is, to compleat thoſe who were already called in<g ref="char:EOLhyphen"/>to the ſtate of Chriſtianity; to ſupply their defects, and to make up what was wanting: which is the meaning of the Greek word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Secondly, For the work of the Mini<g ref="char:EOLhyphen"/>ſtry,</hi> that they might bring others into the Church; who were not yet made Chriſti<g ref="char:EOLhyphen"/>ans: which ſeems to be the proper <hi>work of the Miniſtry,</hi> as it ſtands here diſtinguiſhed from the former, and from what follows. Which was, <hi>Thirdly, for the edifying of the Bo<g ref="char:EOLhyphen"/>dy of Chriſt:</hi> the building up the whole Church together in knowledge and piety; till they all came into the Unity of the Faith, and of the knowledge of the Son of God; and grew to be ſuch perfect men, as not to be <hi>carried about any more like children, with every wind of Doctrine, by the ſleight of men, and cunning craftineſs, whereby they lay in wait to deceive.</hi>
+            </p>
+            <p>This, in ſhort, is the coherence of my Text: in which I ſhall obſerve to you theſe <hi>three</hi> things,</p>
+            <p>
+               <pb n="5" facs="tcp:63798:4"/>I. <hi>That this Apoſtolical Church of</hi> Epheſus <hi>was diſturbed with variety of Doctrines, and with Controverſies in Religion.</hi>
+            </p>
+            <p>II. <hi>That it was a childiſh thing to be unſettled by this variety, or contrariety of Doctrines.</hi>
+            </p>
+            <p>III. <hi>That God did not leave his Church without the means of being ſettled and ſtedfaſt in the true Faith of Chriſt, notwithſtanding thoſe Blaſts of contrary Doctrines, and not<g ref="char:EOLhyphen"/>withſtanding the cunning and craft where<g ref="char:EOLhyphen"/>with they were managed.</hi>
+            </p>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>
+                  <hi>Firſt,</hi> I ſay, theſe words ſuppoſe that <hi>the Church</hi> to which the Apoſtle writes, <hi>was di<g ref="char:EOLhyphen"/>ſturbed by variety of Doctrine, and by Controver<g ref="char:EOLhyphen"/>ſies in matters of Religion.</hi> For when he ſaith, that <hi>henceforth</hi> they ſhould not be toſ<g ref="char:EOLhyphen"/>ſed to and fro, <hi>&amp;c.</hi> it ſuggeſts that they had been wavering and unſettled; apt to be moved away from the Faith of the Goſpel, by the impetuous aſſaults that were made upon them by ſome cunning Deceivers.</p>
+               <p>I call them <hi>impetuous;</hi> becauſe theſe Do<g ref="char:EOLhyphen"/>ctrines which were different from, or con<g ref="char:EOLhyphen"/>trary unto the Faith of the Goſpel, were preſſed with ſuch earneſtneſs, that the Apo<g ref="char:EOLhyphen"/>ſtle
+<pb n="6" facs="tcp:63798:5"/>
+compares them to a Blaſt of Wind: and not barely to a Blaſt, but to a Storm or Tempeſt. Which is the meaning of the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>toſſed to and fro,</hi> as a Ship is in a furious Storm: for ſo <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, from whence it is derived, literally imports; ſigni<g ref="char:EOLhyphen"/>fying here, that the falſe Teachers who di<g ref="char:EOLhyphen"/>ſturbed the Church were very vehement or rather violent; making up in confidence what they wanted in truth.</p>
+               <p>Such were the <hi>Jewiſh</hi> Deceivers; whom the Apoſtle (in the iii. <hi>Philip.</hi> 2.) compares to <hi>Dogs,</hi> who impudently aſſaulted the faithful, and endeavoured to rend and tear the Church all in pieces. Such were the <hi>Philoſophical</hi> Pretenders; by whom the <hi>Coloſ<g ref="char:EOLhyphen"/>ſians</hi> were in danger to be forcibly carried away from the Faith, and made a prey to a Company of Thieves and Robbers, 2 <hi>Co<g ref="char:EOLhyphen"/>loſſ. 8. Beware leſt any man ſpoil you, through Philoſophy and vain deceit.</hi>
+               </p>
+               <p>Which laſt word, as well as my Text, gives you the reaſon why I ſaid the Church was troubled with the impetuous aſſaults of ſome <hi>Deceivers.</hi> For they added much craft, ſubtilty, and juggling, to their vio<g ref="char:EOLhyphen"/>lence, and zealous confidence. Which is
+<pb n="7" facs="tcp:63798:5"/>
+compared here (in the latter part of this Verſe) to that ſleight of hand, wherewith cunning Gameſters cogg the Die: and is further illuſtrated by a <hi>ſecond</hi> word, import<g ref="char:EOLhyphen"/>ing ſuch ſubtilty as we have no one Engliſh word to expreſs, and therefore render it by two, <hi>cunning craftineſs:</hi> and that, <hi>thirdly,</hi> ſo artificially managed, that it was <hi>according to a method of deceit,</hi> (or an orderly proceeding in their Cheats) as the laſt words are in the Greek, which we tranſlate, <hi>Whereby they lye in wait to deceive.</hi>
+               </p>
+               <p>I note theſe things very briefly, only to ſhew what manner of men they were, who troubled the Church of Chriſt in the Apo<g ref="char:EOLhyphen"/>ſtles days. They were bold, and they were crafty; confident, and cunning; buſie and boiſterous, and withal very ſubtil and inſi<g ref="char:EOLhyphen"/>nuating. So buſie they were, that as a Storm of Wind troubles the whole Sea, up<g ref="char:EOLhyphen"/>on which it falls; ſo theſe men diſturbed the Church of Chriſt every where, through<g ref="char:EOLhyphen"/>out the World. For I think I may ſafely af<g ref="char:EOLhyphen"/>firm, That there was not ſo much as one Church, mentioned in the Holy Writings, but was diſturbed, if not in danger to be overturned, by theſe Blaſts of ſtrange Do<g ref="char:EOLhyphen"/>ctrine;
+<pb n="8" facs="tcp:63798:6"/>
+which, like a Tempeſt, raged in all places, where the Goſpel was preached.</p>
+               <p>No body can be ignorant how the Church of <hi>Jeruſalem</hi> (the very Mother Church) was troubled by men that preſſed a very dangerous errour upon them. For they who taught, <hi>Except men were circumciſed after the manner of Moſes, they could not be ſaved,</hi> came from <hi>Judaea,</hi> as you read xv. <hi>Act.</hi> 1.</p>
+               <p>In the Church of <hi>Rome</hi> it ſelf, there were thoſe who taught that men muſt be <hi>juſtified by the works of the Law:</hi> as appears from St. <hi>Paul</hi>'s Epiſtle to the <hi>Romans.</hi>
+               </p>
+               <p>In the <hi>Corinthian</hi> Church, there were thoſe who denied even the Doctrine of the Reſur<g ref="char:EOLhyphen"/>rection: and thereby went about to ſubvert the Chriſtian Faith.</p>
+               <p>The Churches of <hi>Galatia</hi> were ſo infected with Judaical Errours, that they were al<g ref="char:EOLhyphen"/>moſt <hi>removed from him that called them unto the Grace of Chriſt, into another Goſpel,</hi> i. Gal. 6.</p>
+               <p>The <hi>Philippians,</hi> as I ſaid before, had <hi>Dogs</hi> among them, <hi>Evil-workers,</hi> who were of the <hi>Conciſion,</hi> as the Apoſtle Sarcaſtically calls them, iii. <hi>Philip.</hi> 2.</p>
+               <p>The <hi>Coloſſians</hi> ſtood in need of a caution againſt <hi>vain Philoſophy;</hi> and ſuch falſe reaſon<g ref="char:EOLhyphen"/>ings,
+<pb n="9" facs="tcp:63798:6"/>
+as under a colour of humility ſedu<g ref="char:EOLhyphen"/>ced men unto the <hi>Worſhipping of Angels,</hi> ii. <hi>Co<g ref="char:EOLhyphen"/>loſſ.</hi> 8, 18. And ſo I might lead you through all the reſt, till we come to the <hi>ſeven</hi> famous Churches of <hi>Aſia:</hi> unto whom our Lord Chriſt himſelf directed particular Letters af<g ref="char:EOLhyphen"/>ter he went to Heaven. From which we learn that there were ſuch impudent Decei<g ref="char:EOLhyphen"/>vers among them, as pretended to the Gift of Prophecy, and yet ſeduced Chriſt's Ser<g ref="char:EOLhyphen"/>vants to Idolatry, ii. <hi>Revel.</hi> 20. In ſhort, there were <hi>depths of Satan</hi> (v. 24.) profound Myſteries of Diabolical deceit, to over<g ref="char:EOLhyphen"/>throw the Faith of Chriſt.</p>
+               <p>And if it were thus immediately after our Saviour's Aſcenſion to Heaven, and while the Apoſtles were alive, who were full of the Holy Ghoſt; no wonder that the Church was afterward infeſted with divers Hereſies: as appears by the firſt four Gene<g ref="char:EOLhyphen"/>ral Councils, wherein they were condemn<g ref="char:EOLhyphen"/>ed. Particularly this Church of <hi>Epheſus,</hi> and thoſe in <hi>Aſia</hi> depending on it; whom S. <hi>Paul</hi> forewarns of this, when he took his leave of them, and told them they ſhould ſee his face no more, <hi>that after his departure grievous Wolves would enter in among them, not ſparing the
+<pb n="10" facs="tcp:63798:7"/>
+Flock: alſo of your own ſelves ſhall men ariſe, ſpeaking perverſe things to draw Diſciples after them,</hi> xx. Act. 29, 30. And therefore it ought ſtill to be the leſs wonder to any of us, if the condition of the Church be the ſame now, at this great diſtance from the Apoſtolical times: ſince men were ſo bold, as in the very face of the Apoſtles, at leaſt as ſoon as their Backs were turned on any place, to contradict their Doctrine, and teach another Goſpel.</p>
+               <p>From which we may evidently draw theſe <hi>three</hi> Concluſions.</p>
+               <p>I. <hi>Firſt,</hi> There is no cauſe to forſake that Church of which we are Members, or ſo much as to have the worſe opinion of it, becauſe there are contentions in it about matters of Religion.</p>
+               <p>They that have had a principal hand in raiſing Diſputes, and making Diviſions up<g ref="char:EOLhyphen"/>on them, are the men that object this to us, and make it an Argument againſt us. But without any reaſon; for when they have ſaid all that they can, we have as much <hi>Unity of Faith</hi> among us, as they had in the firſt Churches planted by the Apoſtles them<g ref="char:EOLhyphen"/>ſelves.
+<pb n="11" facs="tcp:63798:7"/>
+In which there were ſeveral Winds of Doctrine ſtirring, and many Errors; which made as great a diſturbance then (if not greater) than hath been made among us.</p>
+               <p>Who in the main Articles of Faith are all of one mind: And our Differences are in leſſer and ſecondary things, which belong not to the Primitive Doctrines of the Chri<g ref="char:EOLhyphen"/>ſtian Religion. Which whoſoever oppoſes, we owne him not, but look upon him as in a Faction againſt the Church: Which is not thereby broken, nor the Unity of its Faith deſtroyed. For though ſome men have preached ſtrange Doctrines, and drawn Diſciples after them, (which is no more than they did in the Apoſtles days) yet they have not prevailed againſt this Church, nor overturned its Faith. But as boiſterous Waves (to keep to the Metaphor in the Text) beating againſt a Rock, diſ<g ref="char:EOLhyphen"/>ſolve into Froth; ſo have theſe Blaſts of contrary Doctrine made a vain and fruitleſs diſturbance among us. Some looſer parts of the people have been carried away (to their own ſhame, not ours) while the main Body of our Church, like an unmoveable Rock, ſtill perſiſts in firm Unity: in as
+<pb n="12" facs="tcp:63798:8"/>
+great Unity, as was antiently in any of the Apoſtolical Churches; and that's abun<g ref="char:EOLhyphen"/>dantly ſufficient.</p>
+               <p>II. <hi>Secondly,</hi> We may further conclude, from what hath been ſaid, that if we knew where to find an Infallible Guide and Judge, it would not put an end to Controverſies, nor hinder errors from ſpringing up and peſtering the Church of Chriſt. For when there was ſuch an Authority, it could not do this, which is deſired.</p>
+               <p>All allow the Apoſtles to have been Infallible; and yet you ſee there were va<g ref="char:EOLhyphen"/>rious winds of Doctrine, and ſome of them very dangerous; in the Churches which they planted: Whereby thoſe Churches were divided into Parties; which by the Apoſtolical Authority could not be perfectly united.</p>
+               <p>St. <hi>Paul,</hi> for inſtance, interpoſes his Au<g ref="char:EOLhyphen"/>thority with the Church of <hi>Corinth,</hi> in his firſt Epiſtle, for the making up all diviſions which he heard were among them, 1 <hi>Cor.</hi> i. 10, 11, <hi>&amp;c.</hi> And yet notwithſtanding, it appears by his ſecond Epiſtle (xi. 2, 3, 4, 13, 14.) that they ſtill continued; ſo that
+<pb n="13" facs="tcp:63798:8"/>
+their minds were in danger <hi>to be corrupted from the ſimplicity that is in Chriſt.</hi> And the Epiſtle of <hi>Clemens</hi> to that Church, not long after, informs us; that theſe diviſions and contentions, grew into a kind of Sedition one againſt another.</p>
+               <p>More than this, the Author of our faith Chriſt Jeſus, though he ſpake with the higheſt Authority, yet did not by this put an end to the diſputes that were between the <hi>Phariſees</hi> and <hi>Saducees,</hi> and other Sects among the <hi>Jews.</hi> No, it was ſo far from having this effect, that the Church of the <hi>Jews,</hi> who were inſtructed by this Infallible Teacher, fell into the moſt damnable error; not only rejecting him, but putting him to death.</p>
+               <p>Yes, will ſome ſay, becauſe they did not own his Infallibility. True. But can any other Teacher, though he could juſtly pretend to this Prerogative, hope to pre<g ref="char:EOLhyphen"/>vail with men, when the Saviour of the world could not? Will any man or Church expect to be univerſaly acknowlledged, and make an end of all differences; when the Son of God could not meet with ſuch re<g ref="char:EOLhyphen"/>gard and acceptance in the world? Is it
+<pb n="14" facs="tcp:63798:9"/>
+poſſible for any mens Infallibility (could we ſuppoſe it) to be better atteſted, than the Lord Chriſt's was? Can the Diſciples convince men, more than their Maſter did? If that be a hopeleſs thing, then there will be Controverſies: even about this In<g ref="char:EOLhyphen"/>fallibility. Which leads to the <hi>Third</hi> thing.</p>
+               <p>III. It appears plainly from hence, that God never intended all errors ſhould be kept out of the Church, by an Infallible Authority. No, directly contrary, St. <hi>Paul</hi> ſaith 1 <hi>Cor.</hi> xi. 19. <hi>There muſt be hereſies, that they who are approved may be made manifeſt.</hi> That is, God thinks it juſt, that men ſhould be permitted to follow their own fooliſh conceits; when they will not be guided by the plain directions of his holy Goſpel. By which means, ſincere and upright men are diſcovered; and all men are tried whe<g ref="char:EOLhyphen"/>ther they will obey the truth, or turn aſide unto unrighteouſneſs.</p>
+               <p>There muſt be a tryal made of men: and therefore ſuch order muſt not be taken, as to make it impoſſible there ſhould be any hereſies. No, God hath left it more than poſſible there ſhould; for there <hi>muſt</hi>
+                  <pb n="15" facs="tcp:63798:9"/>
+be Hereſies, that there may be approbation made of Believers, whether they will ſin<g ref="char:EOLhyphen"/>cerly adhere to the plain truths of Chriſti<g ref="char:EOLhyphen"/>an Religion, or part with them for plea<g ref="char:EOLhyphen"/>ſing and gainful errors.</p>
+               <p>Beſides, if God had intended to prevent this, by eſtabliſhing an Infallible Guide to whom all ſhould reſort; He would have declared this intention the moſt plainly of all other things. And have told us alſo where to find ſuch an Authority; and not have left this to be controverted and diſpu<g ref="char:EOLhyphen"/>ted, which was intended to be the end of Controverſies.</p>
+               <p>More eſpecially, if any one particular Church was to have this authority over all other Churches, it would have been moſt needful, that this ſhould have been ſo clearly taught, as to have put it out of all doubt. For we can ſee no reaſon, not ſo much as that of convenience, why one Church ſhould have it, and all others want it: but in rea<g ref="char:EOLhyphen"/>ſon every Church ſhould have it, if it were to be had; that men might not be put to the trouble of going far for Infallible di<g ref="char:EOLhyphen"/>rection.</p>
+               <p>And as for that Church which now pre<g ref="char:EOLhyphen"/>tends
+<pb n="16" facs="tcp:63798:10"/>
+to it; there is the cleareſt evidence, that no Church anciently thought it to have more Authority than other Churches: who lookt upon themſelves as her equals.</p>
+               <p>I ſpeak of the Church of <hi>Rome;</hi> whoſe Determinations, and Traditions in matters of <hi>Doctrine</hi> were rejected, by St. <hi>Cyprian, Firmilianus,</hi> and the reſt of the <hi>African</hi> Bi<g ref="char:EOLhyphen"/>ſhops: who write to the Pope (as every one knows who reads St. <hi>Cyprian</hi>'s Epiſtles) not as their Superiour, but as their <hi>good Brother,</hi> their <hi>Collegue,</hi> their <hi>fellow Prieſt:</hi> rebuking him with much ſharpneſs; tax<g ref="char:EOLhyphen"/>ing him for pretending vainly <note n="*" place="margin">
+                     <hi>V. Epiſt.</hi> LXXII, LXXV. <hi>Edit. Oxon.</hi>
+                  </note> to Apo<g ref="char:EOLhyphen"/>ſtolical Authority where he had none; and for not conforming himſelf to the rule of Truth and Peace delivered by the Apoſtle; and in downright terms affirming, that every Biſhop in the adminiſtration of his Church, hath power to act according to his own judgment; and that none could impoſe Laws upon another.</p>
+               <p>And as for matters of <hi>Ceremony,</hi> all the Biſhops of the Eaſt refuſed to ſubmit to him; challenging as much Authority from St. <hi>John,</hi> as the Roman Biſhop did from St. <hi>Peter<g ref="char:punc">▪</g>
+                  </hi> This is notorious in the famous
+<pb n="17" facs="tcp:63798:10"/>
+Queſtion about Eaſter: and ſufficient to ſhow the truth of what <hi>Aeneas Sylvius</hi> could not but confeſs, before he came to be a Pope; that <hi>little reſpect was had to the</hi> Roman <hi>Church, before the Council of</hi> Nice.</p>
+               <p>And that Council expreſly decreed, the ancient Cuſtoms ſhould be every where obſerved. By which <hi>Antioch</hi> and <hi>Alexan<g ref="char:EOLhyphen"/>dria</hi> claimed the ſame Authority over the Churches ſubject to their Juriſdiction, that the <hi>Roman</hi> Biſhop did within his Dioceſs. And thus it continued for many years after: nor do the greater part, by far, of the Chri<g ref="char:EOLhyphen"/>ſtian World at this day, own any ſuch Au<g ref="char:EOLhyphen"/>thority over them, as the Biſhop of <hi>Rome</hi> now challenges.</p>
+               <p>Let us not therefore be ſhaken, by this <hi>Wind of doctrine,</hi> no more than by any other wherewith this Church hath been troubled. For there is no ſuch Infallible Authority left in the Church, for the deciding all Con<g ref="char:EOLhyphen"/>troverſies; much leſs can that Church lay the ſole Claim to that Authority there is left in it; or if it could juſtly pretend to the higheſt, it would not be able to do what a far more miraculous Authority could not
+<pb n="18" facs="tcp:63798:11"/>
+effect: and there are other means of uni<g ref="char:EOLhyphen"/>ty and peace, preſcribed by God; which if men will not embrace, there muſt be diſcords and diſſentions whereby the inte<g ref="char:EOLhyphen"/>grity or falſeneſs of every mans heart will be diſcovered.</p>
+               <p>What Means thoſe are, you ſhall ſee anon, when I have ſpoken a few words of the <hi>Second</hi> Obſervation; which now follows.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>It is a <hi>childiſh thing to be unſettled in Religion, becauſe of this difference or contrariety of Do<g ref="char:EOLhyphen"/>ctrine,</hi> wherewith the Church is at any time troubled. So the Apoſtle might well call it, becauſe there being (as I have lately ſhown you) a <hi>form of wholſome words</hi> left by them in every Church which they planted, a <hi>Summary of Sound Doctrine,</hi> called the <hi>Faith once delivered to the Saints;</hi> there could be no reaſon that any men, who had this depoſited with them, ſhould be unreſolved what to believe, and unſettled by the Preach<g ref="char:EOLhyphen"/>ing of other Doctrine: but their inſtabi<g ref="char:EOLhyphen"/>lity proceeded merely from the weakneſs of their underſtanding, and the ſtrength of their paſſions.</p>
+               <p>
+                  <pb n="19" facs="tcp:63798:11"/>Theſe <hi>two</hi> things are remarkable in little Children: as their underſtandings are weak, ſo their paſſions are ſtrong, and their deſires violent. From whence it comes to paſs that they are not only credulous; but fickle, and new-fangled (as we ſpeak) de<g ref="char:EOLhyphen"/>lighting in that to day, which they throw away to morrow. Theſe make them raſh, and haſty; apt to quarrel one with another about little differences: and diſpoſe them to be taken with empty ſhows and pagean<g ref="char:EOLhyphen"/>try; with things that affect the ſenſes, and have a gliſtering appearance, though void of all inward goodneſs, and ſolid worth and uſefulneſs.</p>
+               <p>In ſhort, while we are Children in un<g ref="char:EOLhyphen"/>derſtanding, we are naturally injudicious, and conſequently inconſtant. We do not judge aright of things that differ; and ſo are carried uncertainly to and fro, as the Apo<g ref="char:EOLhyphen"/>ſtle here ſpeaks, from one thing to another; and, many times, from better to worſe: eſpecially when we meet with confident people, who eaſily impoſe upon us.</p>
+               <p>This is a very dangerous eſtate; and therefore it highly concerns us to get out of it, by growing in knowledge and wiſdom:
+<pb n="20" facs="tcp:63798:12"/>
+imitating little Children only in our endea<g ref="char:EOLhyphen"/>vours to be without guile; but labouring, as the Apoſtle ſpeaks, in underſtanding to be men, and to have a thorough knowledge of the truth as it is in Chriſt Jeſus.</p>
+               <p>This St. <hi>Peter</hi> preſcribes as a remedy a<g ref="char:EOLhyphen"/>gainſt unſtedfaſtneſs, in the concluſion of his <hi>ſecond</hi> Epiſtle; <hi>Ye therefore, Beloved, ſeeing ye know theſe things, beware leſt ye alſo being car<g ref="char:EOLhyphen"/>ried away by the errour of the wicked, fall from your ſtedfaſtneſs: but grow in grace, and in the knowledge of our Lord and Saviour Jeſus Chriſt.</hi> Who, it is moſt certain, hath not left us in doubt what to believe, and what to hold and retain with a firm reſolution; nor expoſed us, without any help for it, to be car<g ref="char:EOLhyphen"/>ried away by the errour of the wicked: but abundantly provided us with all things neceſ<g ref="char:EOLhyphen"/>ſary for the knowledge of the Truth; and for our improvement therein, unto a ſtate of ſtedfaſt belief. Which is the <hi>third</hi> thing.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>
+                  <hi>We are not left by God without the means of being ſettled in the Faith; notwithſtanding the Blaſts of contrary Doctrine, which may be in the Church, and notwithſtanding the cunning and craf<g ref="char:EOLhyphen"/>tineſs
+<pb n="21" facs="tcp:63798:12"/>
+whereby they may be managed.</hi> For it is the very Scope of the Apoſtle in this place, to convince the <hi>Epheſians,</hi> that God had ta<g ref="char:EOLhyphen"/>ken ſuch care and made ſuch proviſion, that they <hi>might not henceforth be children, toſſed to and fro, and carried about with every wind of Doctrine,</hi> &amp;c. There was a remedy then againſt this lightneſs and inconſtancy; it was poſſible to diſcern truth from falſhood, the Chriſtian Faith from the vain Doctrines which troubled the Church: and if they did not continue <hi>Children,</hi> they might conti<g ref="char:EOLhyphen"/>nue ſtedfaſt in that Faith, and not be mo<g ref="char:EOLhyphen"/>ved from it, by the violent Blaſts of contra<g ref="char:EOLhyphen"/>ry perſwaſions.</p>
+               <p>God did not think fit, as you have heard, to lay ſuch a reſtraint upon mens Spirits, that none ſhould be able to contradict the truth preached by the Apoſtles: but per<g ref="char:EOLhyphen"/>mitted <hi>falſe Apoſtles, deceitful Workers, tranſ<g ref="char:EOLhyphen"/>forming themſelves into the Apoſtles of Christ,</hi> for the tryal and exerciſe of the faithful; whom he furniſhed with ſufficient means to pre<g ref="char:EOLhyphen"/>ſerve themſelves in a ſettled conſtant belief.</p>
+               <p>What thoſe means were, I ſhall briefly lay before you; as I find them partly here, and partly in other places of the Apoſtoli<g ref="char:EOLhyphen"/>cal
+<pb n="22" facs="tcp:63798:13"/>
+Writings; and ſhall treat of them with a particular reſpect to our ſelves, <hi>that we may be eſtabliſhed in the truth of his holy Goſpel.</hi>
+               </p>
+               <p>
+                  <hi>Firſt,</hi> Nothing is to be admitted without good Proof.</p>
+               <p>
+                  <hi>Secondly,</hi> In the Proof we make of Do<g ref="char:EOLhyphen"/>ctrines, the holy Scriptures muſt be the Rule whereby we judge.</p>
+               <p>
+                  <hi>Thirdly,</hi> In the uſe of this Rule, we muſt take direction of our Spiritual Guides and Governours.</p>
+               <p>And <hi>Laſtly,</hi> We muſt live in the ſincere practice of all other Duties of Chriſtian Piety.</p>
+               <p>
+                  <hi>Firſt,</hi> The firſt Direction is that of this Apoſtle St. <hi>Paul</hi> to the <hi>Theſſalonians,</hi> 1 v. 21. <hi>Prove all things, hold faſt that which is good.</hi> Which is the ſame with that of St. <hi>John,</hi> 1 iv. 1. <hi>Beloved, believe not every Spirit; but try the Spirits, whether they are of God: becauſe many falſe Prophets are gone out into the World.</hi> From whence it is likely <hi>Dionyſius</hi> of <hi>Alexandria</hi> formed that Precept, which he calls an <hi>Apoſtolical voice,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Be ye skilful Bankers, able to diſtinguiſh be<g ref="char:EOLhyphen"/>tween good and bad Silver <note n="*" place="margin">
+                     <hi>Euſeb. L.</hi> VII. <hi>Hiſt. Eccleſ. Cap.</hi> 7.</note>.</p>
+               <p>
+                  <pb n="23" facs="tcp:63798:13" rendition="simple:additions"/>Children indeed having not the faculty of diſcerning, take all upon truſt: but it is a ſhame, if being arrived at the ſtate of Manhood, we do not <hi>prove,</hi> and <hi>try,</hi> and <hi>ex<g ref="char:EOLhyphen"/>amine</hi> (as the word ſignifies) every thing that is offered to our belief; which we ought not to receive, merely becauſe confi<g ref="char:EOLhyphen"/>dent men would impoſe it upon us by their Authority. And if it will not abide a proof, nor ſtand a tryal; we may be certain it is deceitful Ware, which they would put off in the dark, and not have brought into the light.</p>
+               <p>Now in this proof, we muſt be very ſeri<g ref="char:EOLhyphen"/>ous: for nothing can be examined tho<g ref="char:EOLhyphen"/>roughly without an attentive mind. Which we muſt awaken to ponder and conſider every thing, in the uſe of the beſt reaſon we have: and whatſoever appears upon exa<g ref="char:EOLhyphen"/>mination and proof, to be agreeable to <hi>the Faith once delivered to the Saints,</hi> that we muſt hold faſt; and not ſuffer our ſelves to be carried from it, by any importunities of con<g ref="char:EOLhyphen"/>trary affections. For as we muſt receive no<g ref="char:EOLhyphen"/>thing without good reaſon; ſo we ought not lightly to forſake that, which we have good reaſon to believe.</p>
+               <p>
+                  <pb n="24" facs="tcp:63798:14"/>When I ſpeak of <hi>Reaſon,</hi> I do not mean bare natural Reaſon, without the guidance of God's Grace. For which we muſt hear<g ref="char:EOLhyphen"/>tily pray; and He no doubt will readily vouchſafe, unto all thoſe who ſeriouſly ſeek for it, with a deſire to be led by it in the ways of truth and holineſs. For having given us his Son, and by him revealed his mind and will unto us; it is infidelity to think that he will not guide us by his Grace, to underſtand his mind and will, in all things neceſſary to our ſalvation. Far be ſuch a thought from our hearts: which ought to reſt ſatisfied, that he will give us his Grace to direct us, as freely as he hath given us his Son Chriſt to inlighten and in<g ref="char:EOLhyphen"/>ſtruct us. He is as little ſparing of his Grace, as the viſible Sun is of its Beams: which ſhine into the eyes of all thoſe, who do not by wilful winking ſhut it out; and thereby make themſelves, not the Sun, guilty of their blindneſs.</p>
+               <p>If we love darkneſs rather than light; or will not be at the pains to open our eyes and let it in; but inſtead thereof give up our ſelves to be led about by others, as they ſhall pleaſe to conduct us; it is but juſt
+<pb n="25" facs="tcp:63798:14"/>
+with God to deprive us of the power of judging aright, and not to let us ſee when we would, becauſe we would not when we might.</p>
+               <p>He hath given us the uſe of Reaſon; which if we will blindly reſign to any pre<g ref="char:EOLhyphen"/>tended Authority, what is it but to ſhut our eyes when we ſhould open them, or ſuffer our ſelves to be hood-wink'd, when we ſhould look about us that we be not decei<g ref="char:EOLhyphen"/>ved? We can give no account of this to God: who did not give us this talent, that we ſhould give it away to others; but that we ſhould faithfully employ and improve it our ſelves. He never intended that we ſhould let others judge for us; but requires us to examine and judge our ſelves whether there be reaſon to receive that which is pro<g ref="char:EOLhyphen"/>pounded to us by others.</p>
+               <p>This is ſo great a Truth, that they who receive things without examination, upon mere truſt, yet have ſome reaſon for what they do. For no man truſts another, till he hath reaſon to think he is an honeſt man, and will not deceive him. He doth not take his bare word for it, that he will not deceive him; but hath ſome ground or
+<pb n="26" facs="tcp:63798:15"/>
+other to think he will be as good as his word. Inſomuch that they who ſeem leaſt to truſt to their own reaſon, do really truſt it in the weightieſt matter; when they truſt it to chuſe one for them, whom they may truſt.</p>
+               <p>They of the <hi>Roman</hi> Church, I mean, who would have us give up our Reaſon, to their Authority; do not pretend to perſwade us to ſubmit to that Authority, without ſome reaſon for it. And to be perſwaded by rea<g ref="char:EOLhyphen"/>ſon, as hath been long ago ſaid, that to their Authority we ought to ſubmit our Reaſon, is ſtill to follow Reaſon, and not to quit it, and blindly reſign it. And if we muſt follow Reaſon in that, why not in all things whatſoever? Why is it not as good a Judge of any thing, as of their Authority? What reaſon can be given for uſing our Rea<g ref="char:EOLhyphen"/>ſon in this ſingle affair, and relinquiſhing it ever after? Is it not the ſame Reaſon ſtill? Was it not given us for our conſtant Safe-Conduct? By what reaſon then do we truſt others to chuſe our Religion for us; with<g ref="char:EOLhyphen"/>out examining whether what they ſay be true or no; but taking it barely upon their word?</p>
+               <p>
+                  <pb n="27" facs="tcp:63798:15"/>How do they know that to be true, which they propound to us? May not we know it by the ſame means? and rely not merely upon their Authority, but upon the ſame reaſon that they do? For they ſay what they deliver to us, either with reaſon or without. If with reaſon, we ought to judge whether it be a good reaſon or no: for why ſhould not we judge as well as they, ſince God hath intruſted us with a faculty whereby to judge.</p>
+               <p>If without reaſon, we ought not to fol<g ref="char:EOLhyphen"/>low an Authority, which preſſes things to be believed upon no ground: but to look upon thoſe as the moſt ſincere and faithful Directors, who would have us to examine and prove, conſider and ponder all things well, before we receive them; and who offer to us their aſſiſtance therein, that we may ſee with our own eyes, what God him<g ref="char:EOLhyphen"/>ſelf hath delivered to us in his holy Word. Which brings me to the next thing.</p>
+               <p>
+                  <hi>Secondly,</hi> In this proof which we make of every thing propounded to us, <hi>the Scriptures ought to be the Rule, whereby we judge.</hi>
+               </p>
+               <p>We have no other, I have formerly ſhewn you; and they are abundantly ſufficient for
+<pb n="28" facs="tcp:63798:16"/>
+us, and ſo authentick; that our Bleſſed Lord himſelf, and his Apoſtles after him, con<g ref="char:EOLhyphen"/>ſtantly appealed to them for the proof of their Doctrine. And as they referred all men to the old Scriptures, <hi>ſaying no other thing but what the Prophets and Moſes did ſay ſhould come</hi> (xxvi. <hi>Act.</hi> 22.) ſo we can ſend them no whither elſe for their information, but to the ſame Scriptures, and to the New Teſta<g ref="char:EOLhyphen"/>ment; according to which if any men do not ſpeak, they are not to be received. Nay, St. <hi>Auſtine</hi> ventured to imitate St. <hi>Paul,</hi> and to ſay <note n="*" place="margin">
+                     <hi>L. III. con<g ref="char:EOLhyphen"/>tra liter. Pe<g ref="char:EOLhyphen"/>tiliani cap.</hi> 6.</note>, <hi>Let him be accurſed whoſoever he be, (I will not ſay we, who are not worthy to be compared with him that ſaid, THOUGH WE, but though he be an Angel from Heaven) who de<g ref="char:EOLhyphen"/>clares to you any thing of Chriſt, or of his Church, or of any other matter that belongs to our Faith and Life, beſides that which ye have received in the Legal and Evangelical Scriptures.</hi>
+               </p>
+               <p>Unto which the ſame St. <hi>Paul</hi> ſends <hi>Timo<g ref="char:EOLhyphen"/>thy</hi> himſelf, for his inſtruction, in both his E<g ref="char:EOLhyphen"/>piſtles to him. Where he commands him to <hi>give attendance to reading, viz.</hi> of the holy Scriptures: which he <hi>had known from a Child,</hi> and which <hi>were able,</hi> he tells him, <hi>to make him wiſe to ſalvation, through faith which is in
+<pb n="29" facs="tcp:63798:16"/>
+Chriſt Jeſus.</hi> They being <hi>given by inſpiration of God, that</hi> even <hi>a man of God</hi> (like the an<g ref="char:EOLhyphen"/>tient Prophets) <hi>might be perfected, and thorough<g ref="char:EOLhyphen"/>ly furniſhed unto all good works;</hi> for every part of his employment, 2 <hi>Tim.</hi> iii. 15, 16.</p>
+               <p>Which place I have explained not long ago, and now mention it again; becauſe the Apoſtle directs him to theſe holy Writings, as a means to preſerve him in the true Chri<g ref="char:EOLhyphen"/>ſtian belief, <hi>ver. 14. But continue thou in the things, which thou haſt learned, and haſt been aſ<g ref="char:EOLhyphen"/>ſured of, knowing of whom thou haſt learned them, and that from a Child thou haſt known the holy Scriptures,</hi> &amp;c. What we have learned out of the holy Scriptures, we have an aſſurance of; we know from whom they come; and are certain we are taught by God, when we read theſe holy Books: but cannot be aſſu<g ref="char:EOLhyphen"/>red of any other Tradition, which is not contained here; and therefore ought to con<g ref="char:EOLhyphen"/>tinue ſtedfaſt in our adherence to the Scrip<g ref="char:EOLhyphen"/>tures; and both to ſuſpect thoſe who would draw us from this hold, and ſtick to thoſe Guides who bid us ſtick to this, and prove all things by it. For it is evident they have no mind to deceive us; but do, in effect, bid us believe God, and follow his directi<g ref="char:EOLhyphen"/>ons,
+<pb n="30" facs="tcp:63798:17"/>
+and rely upon his Authority: who cannot miſlead us; and will not ſuffer us to be mis-led, if we <hi>continue in the things which we have learnt out of the holy Scriptures.</hi>
+               </p>
+               <p>For taking them to be our Rule, we ſhall neither admit any thing which is con<g ref="char:EOLhyphen"/>trary to that Rule; nor ſhall we take any thing to be an eſſential part of the Chriſtian Faith, which is not there delivered unto us. For it is not conſiſtent with the notions we have of God's infinite Goodneſs and Wiſdom, to believe He would give us a Rule which is defective in neceſſary things. No, He hath abundantly provided here for our Inſtruction, in all ſuch matters: and as we ought to refuſe that which contradicts any part of theſe holy Books; ſo we ought not to think it neceſſary that we ſhould entertain any thing, which they do not teach us.</p>
+               <p>And teach us plainly and evidently; for in all neceſſary things they are very clear and perſpicuous; Elſe they could not be a Rule unto us, but we muſt ſeek for ſome other. The <hi>Apoſtle's Creed,</hi> for inſtance, (which the Ancients called the immoveable Rule of Faith, a ſhort Summary of Chri<g ref="char:EOLhyphen"/>ſtian
+<pb n="31" facs="tcp:63798:17"/>
+Belief, beyond which, as they ſpeak, we ought not to ſeek for Faith) together with the <hi>Nice Creed,</hi> and <hi>Athanaſius</hi>'s, which expound the Apoſtles, <hi>ought thoroughly to be received and believed: for that they may be proved by moſt certain warrants of holy Scripture. But whatſoever is not read therein, nor may be proved thereby, is not to be required of any man, that it ſhould be believed as an Article of Faith, or be thought requiſite or neceſſary to Salva<g ref="char:EOLhyphen"/>tion.</hi>
+               </p>
+               <p>This is the Doctrine of our Church, in its <hi>ſixth</hi> and <hi>eighth</hi> Articles: unto which let us ſtrictly keep, if we would not be carried to and fro uncertainly with the blaſts of vain Doctrines, which have no <hi>certain Warrants</hi> in the holy Scriptures, and there<g ref="char:EOLhyphen"/>fore are not to be received; or are contra<g ref="char:EOLhyphen"/>ry to them, and therefore are to be reject<g ref="char:EOLhyphen"/>ed. Here we muſt fix; and believe that here we are ſafe. For the Scriptures want nothing to compleat us in Chriſtian wiſ<g ref="char:EOLhyphen"/>dom; which they do not wrap up in obſcurity, but, as far as is needful, give us a clear underſtanding of the Doctrines of Faith. And make us underſtand withal, if we pleaſe to conſider them, that having
+<pb n="32" facs="tcp:63798:18" rendition="simple:additions"/>
+laid our foundation well in a firm belief of thoſe great and neceſſary things, which out of the Scriptures are ſummed up in the <hi>Creeds</hi> before named; we need not trouble our ſelves about other matters, which are not ſo evident: but make it our whole buſineſs in this world, to raiſe the ſolid Superſtructure of a holy Life, upon the Foundation of Faith in Chriſt.</p>
+               <p>This is the <hi>Second</hi> thing; the holy Scrip<g ref="char:EOLhyphen"/>tures are the Rule, whereby we muſt prove all things: from which if we do not de<g ref="char:EOLhyphen"/>part, we cannot be led into any dangerous errors. Provided,</p>
+               <p>
+                  <hi>Thirdly,</hi> that in the uſe and applica<g ref="char:EOLhyphen"/>tion of this Rule, we <hi>take the direction of our Spiritual Guides and Governors.</hi>
+               </p>
+               <p>In ſome things, as I ſaid, there is difficul<g ref="char:EOLhyphen"/>ty: and where there is none, the cunning of deceivers may ſo perplex things and in<g ref="char:EOLhyphen"/>tangle our underſtandings, that we may not know what to think. In which caſe, eſpecially, we ought to ſeek for the aſſiſt<g ref="char:EOLhyphen"/>ance of thoſe, that are better able to judge than our ſelves. Which is the very means of ſtability and conſtancy, which the A<g ref="char:EOLhyphen"/>poſtle
+<pb n="33" facs="tcp:63798:18"/>
+here recommends in my Text. For having ſhown, how God appointed ſeveral orders of men in the Church, not only <hi>A<g ref="char:EOLhyphen"/>poſtles, Prophets</hi> and <hi>Evangeliſts,</hi> but alſo <hi>Paſtors</hi> and <hi>Teachers, for the perfecting of the Saints,</hi> &amp;c. he lets them know that by theſe means God expected, that they ſhould not be <hi>henceforth children, toſſed to and fro, and carried away with every wind of Doctrine.</hi> For this purpoſe were <hi>Paſtors</hi> and <hi>Teachers,</hi> more particularly ſetled in the Church; that they might be Inſtruments of ſetling others. After the <hi>Apoſtles,</hi> and <hi>Prophets</hi> and <hi>Evange<g ref="char:EOLhyphen"/>liſts,</hi> had revealed the mind and will of God to men; <hi>Paſtors</hi> and <hi>Teachers</hi> were left in every Church, to help them both to under<g ref="char:EOLhyphen"/>ſtand what the other great men had reveal<g ref="char:EOLhyphen"/>ed; and to detect the forgeries of falſe Apoſtles, who went about to ſupplant the Chriſtian Doctrine.</p>
+               <p>Theſe <hi>Gifts,</hi> as the Apoſtle here calls them, were beſtowed laſt of all; being in<g ref="char:EOLhyphen"/>tended to remain after the other ceaſed. And accordingly you are bleſſed with them, in this Age; as they were in the beginning: and they are placed over you for the ſame end, that they were at firſt; that you may
+<pb n="34" facs="tcp:63798:19"/>
+adviſe with them, as perſons whoſe buſineſs it is to ſtudy the holy Scriptures, and to guide God's people by them in the way of truth. For this they are better qualified than any other perſons; and therefore ought to be conſulted by the people. Who muſt not be ſo bold as to lean merely to their own underſtanding; but liſten alſo unto them: not indeed as infallible; but as men of the beſt underſtanding, both by their Office, and by their Study, pains and expe<g ref="char:EOLhyphen"/>rience: whereby they are enabled to diſco<g ref="char:EOLhyphen"/>ver the frauds and ſophiſtry of Deceivers, and to open, better than any elſe can do, the true meaning of the holy Scriptures.</p>
+               <p>Their Guidance therefore the Apoſtle to the <hi>Hebrews</hi> alſo commends, as a remedy a<g ref="char:EOLhyphen"/>gainſt their inſtability in Religion, xiii. 7, 8, 9. <hi>Remember them that have the rule over you, who have ſpoken to you the word of God, whoſe faith follow,</hi> &amp;c. <hi>Be not carried about with divers and ſtrange Doctrines: for it is a good thing that the heart be eſtabliſhed with grace, not with meats, which have not profited them that have been occupied therein.</hi> Where one mark is gi<g ref="char:EOLhyphen"/>ven them, whereby to know what Guides to follow: Such as eſtabliſhed their hearts
+<pb n="35" facs="tcp:63798:19"/>
+in true grace and goodneſs, not thoſe that troubled them with unprofitable Diſputes about meats and drink, and ſuch like things; which were preſſed by Judaical Teachers, but made thoſe who obſerved them not one jot the better; if they did not make them worſe, by taking off their hearts from more ſubſtantial Duties.</p>
+               <p>And truly there is the ſame mark of di<g ref="char:EOLhyphen"/>ſtinction at this day. All men follow ſome Guides or other: but they alone ought to be followed, who lead men, not by their own authority, but by the direction of the holy Scriptures; whoſe main ſtudy it is to underſtand the Scriptures themſelves, and then to make others underſtand them; who do not hide thoſe Books from the people, but exhort them to look into them and read them ſeriouſly, and to learn therein, above all things, to be godly and vertuous, to mortifie all evil affections and paſſions, to purifie themſelves from all filthineſs both of fleſh and ſpirit, and to perfect holineſs in the fear of God.</p>
+               <p>Such Guides you are bound in Conſcience to adviſe withal; and not lightly to forſake their Conduct. For if they of the contrary
+<pb n="36" facs="tcp:63798:20"/>
+perſwaſion follow their Guides with an im<g ref="char:EOLhyphen"/>plicite Faith, and a kind of blind obedience, being ſcarce permitted to uſe their Reaſon; how can our people anſwer it to God, if they will not take heed to thoſe who bid them open their eyes, and ſee, and examine and prove what they offer to them, by the Rule of the holy Scriptures; in the uſe of the moſt impartial and unbiaſſed Reaſon, which God hath beſtowed upon them, and wherewith they can aſſiſt them?</p>
+               <p>It is not eaſie to apprehend how great a ſin they are guilty of, who neglect ſuch guidance. And I muſt take the freedom to tell you, That to liſten to other pretended Guides, neglecting thoſe of the Church of <hi>England,</hi> under whom ye have been bred, whoſe converſation you know, by whom you have been long inſtructed, and had ſuf<g ref="char:EOLhyphen"/>ficient proof of their abilities, is an inexcu<g ref="char:EOLhyphen"/>ſable ſin, and an unaccountable folly. For in all reaſon you ought to have a greater re<g ref="char:EOLhyphen"/>verence to the Prieſts of our Church, than to thoſe of any other Communion: who cannot be preſumed to know better than ours do, nor to have more concern and care to guide you aright than ours have.</p>
+               <p>
+                  <pb n="37" facs="tcp:63798:20"/>And therefore as none of you, I hope, will be carried away from the Faith of this Church, by any wind of Doctrine, whatſo<g ref="char:EOLhyphen"/>ever: ſo you will not, I truſt, ſo much as entertain a doubt of the truth here believed, without conſulting with the Paſtors and Teachers of it; who are able to preſerve you from falling, by Gods grace, and bleſ<g ref="char:EOLhyphen"/>ſing upon your and their honeſt endea<g ref="char:EOLhyphen"/>vours. You ought to make a great con<g ref="char:EOLhyphen"/>ſcience of this: if you chance to be ſtagger<g ref="char:EOLhyphen"/>ed by any objection, repair to thoſe whom God hath appointed to ſettle your minds, and preſerve you upright. Nay if there were nothing of Conſcience in it; yet it is but a due reſpect to them, under whoſe miniſtry you have many years lived, not to forſake them upon any ſuggeſtions whatſo<g ref="char:EOLhyphen"/>ever, without hearing what they can anſwer to them: nor to think them leſs able and willing to direct you, than any other per<g ref="char:EOLhyphen"/>ſons; or leſs honeſt and careful in the di<g ref="char:EOLhyphen"/>rections they give, that neither you nor they may do amiſs. Beſides the weakneſs and levity, nay the folly and wickedneſs, it is a rude contempt of thoſe, whom you have the greateſt reaſon to eſteem (and will
+<pb n="38" facs="tcp:63798:21"/>
+be ſo judged at the dreadful day of our Lord) to hearken to the voice of ſtrangers, and give a perfect credit to them; without ſo much as conſulting the judgment of thoſe, with whom you have been long ac<g ref="char:EOLhyphen"/>quainted.</p>
+               <p>Be not guilty, I beſeech you, of ſuch unmanly, and unmannerly behaviour. Do not ſo much as admit the beginning of a doubt about your Religion, without ac<g ref="char:EOLhyphen"/>quainting ſome of them with it, that they may reſolve you: and, as St. <hi>Peter</hi> ſpeaks (1 v. 12.) <hi>exhort and teſtify to you, that this is the true grace of God, wherein ye ſtand.</hi>
+               </p>
+               <p>And in which you will always ſtand, if you obſerve one thing more: which in truth is the greateſt of all.</p>
+               <p>Fourthly, <hi>Live in the ſincere practice of all other duties of Chriſtian piety.</hi> For to do what we know to be the will of God, is the ſureſt way to be preſerved by him both in truth and in holineſs. A godly life is the great<g ref="char:EOLhyphen"/>eſt ſecurity againſt all Impoſtures. We ſhall never doubt of the truth of our belief, when we feel it hath effected the deſign of Faith; by bringing forth the fruit of it, in all
+<pb n="39" facs="tcp:63798:21"/>
+manner of vertue and godlineſs of living.</p>
+               <p>About which there is no doubt nor que<g ref="char:EOLhyphen"/>ſtion, no diſpute nor controverſy: for all the parts of an holy life, are as plainly ſet down in the holy Scriptures, as that part of it now mentioned, <hi>We beſeech you, Brethren, know</hi> (that is, love) <hi>them, which labour among you, and are over you in the Lord, and admoniſh you: and eſteem them very highly in love, for their works ſake, and be at peace among your ſelves</hi> 1 Theſ. v. 11, 12. All the reſt, I ſay, are as expreſs, and clear, and evident as this: whether they be our duties toward God, or towards man (whether ſuperiours, equals or inferiours) or whether they concern the right Government of our ſelves, in all Temperance, Soberneſs, Chaſtity, Self-de<g ref="char:EOLhyphen"/>nial, Contentedneſs, and Contempt of this preſent World.</p>
+               <p>Without which (I mean <hi>contempt of this preſent World</hi>) all the advice that can be given will ſignify little, to ſecure us in the true Religion. If this one thing be wanting, we are liable to be deceived, and none can help us. We ſhall turn like Weather-cocks by every wind of Doctrine, if our intereſt lie that way: and it will not be in the
+<pb n="40" facs="tcp:63798:22"/>
+power of any man, by the cleareſt and moſt ſolid demonſtrations, to fix and ſettle us. For the love of this preſent World, of riches, honours and preferments, dazles the eyes of mens minds, blinds their judgment, bribes their affections, corrupts their conſci<g ref="char:EOLhyphen"/>ences, and carries them into the fouleſt do<g ref="char:EOLhyphen"/>tages.</p>
+               <p>Religion and the things of the other world, cannot be of any great price, in his account, who admires and over-values the things of this preſent life. Which will eaſily perſwade him (as I had occaſion to ſhew you lately) when he cannot keep both, to let go his Faith, that he may preſerve theſe. And therefore if we will ſtick faſt to our Religion; we muſt not cleave too cloſe to this preſent World. We muſt not frame too high an opinion in our minds of any thing here; nor ſet our hearts and affections on it: but learn to want as well as to abound; to be ſatisfied with a little; and, as the Apoſtle ſpeaks, <hi>having food and rai<g ref="char:EOLhyphen"/>ment, therewith to be content;</hi> remembring that <hi>godlineſs, with contentment, is great gain.</hi> 1 Tim. vi. 6, 8.</p>
+               <p>Such leſſons if we learnt and faithfully
+<pb n="41" facs="tcp:63798:22"/>
+practiſed, (and there is no man that need be ignorant of them or defective in them, unleſs he will) they would preſerve and keep our minds from being drawn away, by plauſible and gainful errors. Nay, more than that, they would put an end to all con<g ref="char:EOLhyphen"/>troverſies, and diſputes; better than an In<g ref="char:EOLhyphen"/>fallible Judge could do. For when there was one in the world, there were ſtill Sects and Factions, as I have already ſhown you: But if we would ſubmit to the power of the Goſpel, and of God's holy Spirit, ſo far as to become obedient to the plain com<g ref="char:EOLhyphen"/>mands which he lays upon us; that is, to be made truly meek and lowly in heart, humble and peaceable, tender-hearted and Charitable, holy and heavenly-minded<g ref="char:punc">▪</g>; having no deſigns for this world, but all for the other; not intending to ſerve any earthly ends by our Religion, but only to ſecure our Souls everlaſting ſalvation; be<g ref="char:EOLhyphen"/>ing ſincere lovers of truth, deſirous to know the whole will of God, ready to imbrace it, though never ſo croſs to our preſent inte<g ref="char:EOLhyphen"/>reſts, conſcientiouſly reſolved to do it, what<g ref="char:EOLhyphen"/>ſoever we deny or loſe on that account; this temper of mind wouldbe a far better
+<pb n="42" facs="tcp:63798:23"/>
+expedient, and more available for the heal<g ref="char:EOLhyphen"/>ing of all Diviſions, and for the making Peace and Unity in the Chriſtian World, than infallibility of Judgment would be, could we tell where to find it.</p>
+               <p>This is the way of God; wherein if we will not walk, there muſt be Hereſies, and contention, and ſtrife: nay, there will be, as St. <hi>James</hi>'s words are, <hi>every evil work;</hi> and no remedy can be found for it.</p>
+               <p>Whereas in this way, I will be bold to go a little further and ſay, that God hath taken care every particular Chriſtian may be infal<g ref="char:EOLhyphen"/>lible; as far as is needful for him.</p>
+               <p>Much Diſcourſe and Diſpute there hath been and is about Infallibility. And ſome, you know, argue there muſt be ſuch a thing, becauſe of the care which we all believe Chriſt hath of his Church: in which it would be convenient there ſhould be an Infallible Judge, and therefore they conclude there is one. But if Convenience were the mea<g ref="char:EOLhyphen"/>ſure, and our Underſtanding the Meaſurers, we might rather conclude that God hath made every particular Chriſtian infallible: becauſe that is far more convenient, than for every Chriſtian to go a great way to one In<g ref="char:EOLhyphen"/>fallible
+<pb n="43" facs="tcp:63798:23"/>
+Judge; and then not be able to know certainly where to find him: becauſe they that ſpeak of ſuch a Judge are not a<g ref="char:EOLhyphen"/>greed whether he be a ſingle Perſon, or whether this Infallibility do not lye in more than in one, nay whether it be not in a many; but there is as great difference a<g ref="char:EOLhyphen"/>bout this, as any thing elſe whatſoever.</p>
+               <p>All that we can truly reſolve therefore in this matter is, That ſuch is the Grace of God, ſuch his Care of his Church, that He hath made every truly pious Chriſtian infal<g ref="char:EOLhyphen"/>lible, though not in all things, yet in the main thing; if he go on to the end in a courſe of piety. That is, with reſpect to his Journies end he is infallible, though not with reſpect to every ſtep he takes thither. He may erre in many things, he may ſome<g ref="char:EOLhyphen"/>times go wrong; yet if it be his conſtant deſign and watchful endeavour, to govern himſelf faithfully in all his actions, by the Rule of God's Word, and to follow all the Directions therein, he ſhall infallibly come to Heaven.</p>
+               <p>Let no men make you believe the con<g ref="char:EOLhyphen"/>trary, though you do not believe every thing that they tell you is neceſſary. For
+<pb n="44" facs="tcp:63798:24"/>
+God hath promiſed to guide <hi>the meek in judg<g ref="char:EOLhyphen"/>ment, and to teach them his way. His ſecret is with them that fear him; and his Covenant is to make them know it,</hi> XXV. Pſal. 9, 14. They ſhall certainly underſtand all things need<g ref="char:EOLhyphen"/>ful; and be preſerved from damnably erring in their judgment. God is faithful, and will keep them from falling into the errour of the wicked: becauſe they feared him greatly; doing his will ſincerely as far as they knew it; and being ready and deſirous to believe and obey it in all other things, if they could have known them to be his Will.</p>
+               <p>Therefore let us neither decline this way; nor diſtruſt it. Let us look upon this as the way of peace; and let us think our ſelves ſafe in it. Let all carnal, let all worldly, let all diabolical luſts and paſſions be morti<g ref="char:EOLhyphen"/>fied, and we ſhall not fail to know the truth: nay, all our differences will be at an end; or, if any remain, they will not be deſtructive either to Charity, or that bleſſed Unity, which all good Chriſtians deſire to ſee in the Church of Chriſt.</p>
+               <p>If all will not take this courſe; yet they who do ſhall ſtand as unmoveable as a Rock,
+<pb n="45" facs="tcp:63798:24"/>
+though there be never ſuch ſtrong Winds and violent Guſts of Doctrine abroad, that would blow them about. For it is only Chaff, and Straws, and ſuch like light or looſe things, which are carried about with the Wind: Solid and well-built Houſes ſtand firm and unſhaken. And ſo will all they who are deeply grounded in holineſs and humility. They will be ſtedfaſt and un<g ref="char:EOLhyphen"/>moveable, and never be perſwaded to fol<g ref="char:EOLhyphen"/>low any other Doctrines, than thoſe they have received in this Church, though preſ<g ref="char:EOLhyphen"/>ſed with never ſo much earneſtneſs; be<g ref="char:EOLhyphen"/>cauſe no Doctrines whatſoever can make them better than they are, and, by the Grace of God, intend to be.</p>
+               <p>And this truly is a plain Direction where<g ref="char:EOLhyphen"/>by to judge of thoſe Doctrines, which trouble the Church. Do they tend to make men at all the better, if they do be<g ref="char:EOLhyphen"/>lieve them? Will their hearts be more pur<g ref="char:EOLhyphen"/>ged from all bad affections? Will they be<g ref="char:EOLhyphen"/>come more holy, more humble, more meek, more modeſt, more dead to this World, more kind, loving and charitable to all men, by entertaining thoſe Doctrines, which are ſuperadded to the Chriſtian Faith,
+<pb n="46" facs="tcp:63798:25"/>
+into which we were baptized? Or on the contrary, Do they not give mens vices greater liberty? Do they not puff them up, as all windy knowledge doth? Will they not diſpoſe us to be more highly conceited of our ſelves, more arrogant, more angry, more impatient of contradiction, more un<g ref="char:EOLhyphen"/>charitable and cenſorious, more looſe in our converſation, more unpeaceable and ungo<g ref="char:EOLhyphen"/>vernable? If we find theſe to be the Fruits of ſuch Doctrines, we are aſſured thereby that they are not the true Chriſtian Do<g ref="char:EOLhyphen"/>ctrines; which have the quite contrary ef<g ref="char:EOLhyphen"/>fects, and make men of another Spirit.</p>
+               <p>To conclude, There is one piece of Chriſtian piety, wherewith all our works muſt be begun, continued and ended; and that is earneſt Prayer to God: whom we muſt conſtantly beſeech to pour the Grace of his holy Spirit upon us; that we may not fail to follow all theſe Directions, and that they may be effectual for our preſervation.</p>
+               <p>To him let us addreſs our ſelves with all humility and fervent affection; imploring his gracious preſence with us at all times; to inlighten our minds, to guide us in judg<g ref="char:EOLhyphen"/>ment according to his promiſe, to give us
+<pb n="47" facs="tcp:63798:25"/>
+underſtanding in his holy Word, to beſtow upon us a ſpirit of diſcerning, that we may clearly perceive the difference of things, and not take evil for good, falſhood for truth; but the <hi>way of lying may be removed from us, and he may grant us his Law graciouſly.</hi>
+               </p>
+               <p>But above all things let us beſeech him, to give us honeſt and good hearts, unbiaſſed by any carnal or worldly affections. Let us pray with <hi>David</hi> in the Pſalm now mentioned, cxix. 36. that he would <hi>incline our heart unto his teſtimonies, and not unto cove<g ref="char:EOLhyphen"/>touſneſs: turn away our eyes from beholding vani<g ref="char:EOLhyphen"/>ty, and quicken us in his way.</hi> For where the love of the World prevails, any gainful errour may eaſily find entertainment.</p>
+               <p>And whenſoever we find our ſelves begin to be unſettled in the belief of that, which upon the moſt ſerious and deliberate conſi<g ref="char:EOLhyphen"/>deration, we have judged to be the truth; whenſoever the reſolution we took upon that judgment, begins to waver and ſhake; let us remember that we are under a temptation; and that every temptation is a deceit, and would put a cheat upon us, (for <hi>every man is tempted,</hi> ſaith St. <hi>James, when he is drawn away by his own luſt, and inticed</hi>) and
+<pb n="48" facs="tcp:63798:26" rendition="simple:additions"/>
+thereupon let us apply our ſelves to God with the greater diligence and earneſtneſs, for his Grace to purifie our hearts; that we may not be ſeduced by any bad affections; but <hi>building up our ſelves in our moſt holy Faith, praying in the Holy Ghoſt, we may keep our ſelves in the love of God, looking for the mercy of our Lord<g ref="char:punc">▪</g> Jeſus<g ref="char:punc">▪</g> Chriſt unto eternal life,</hi> S. Jude 20, 21.</p>
+               <p>Finally, the Church it ſelf hath put a Prayer into our mouths, in the Collect for this Day: in which let us not ceaſe to make our humble and hearty requeſts to Him; ſaying,</p>
+               <p>
+                  <hi>O Almighty God, who haſt inſtructed thy holy Church with the heavenly Doctrine of thy Evange<g ref="char:EOLhyphen"/>list St.</hi> Mark, <hi>Give us Grace, that being not like Children carried away with every Blaſt of vain Doctrine, we may be eſtabliſhed in the truth of thy holy Goſpel, through Jeſus Chriſt our Lord.</hi>
+               </p>
+            </div>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
